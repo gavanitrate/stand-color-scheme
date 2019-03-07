@@ -1,10 +1,10 @@
 <scheme name="Stand" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-07T11:11:54</property>
+    <property name="created">2019-03-07T11:21:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-03-07T11:12:04</property>
+    <property name="modified">2019-03-07T11:22:22</property>
     <property name="originalScheme">Stand</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
@@ -81,7 +81,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="61bddc" />
+        <option name="FOREGROUND" value="232323" />
+        <option name="BACKGROUND" value="84d7eb" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
